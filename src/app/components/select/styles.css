@@ -1,0 +1,11 @@
+.select-container {
+    @apply flex flex-row justify-start items-center border border-gray-700 rounded h-9 px-1 py-0.5;
+}
+
+.select-options {
+    @apply select-none absolute top-full shadow-md w-full;
+}
+
+.select-option {
+    @apply px-2 py-1 hover:bg-blue-300 cursor-pointer;
+}

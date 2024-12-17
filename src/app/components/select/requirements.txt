@@ -1,0 +1,20 @@
+1. Functional Requirement
+    a. A Input with selectable options
+    b. Search option(sync/async)
+    c. Grouping
+    d. Multiselect
+    e. Clear selected value
+    f. Disabled option
+
+2. Non-Functional Requirements
+    a. Keyboard accessibility
+    b. i18n
+    c. Performance
+    d. Theaming
+    e. Security
+
+3. Component Architecture
+
+4. Data Entities
+
+5. Optimization
